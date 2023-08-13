@@ -1,2 +1,2 @@
-# git-practice
-git command line practice
+# 이슈 트래킹 최초 발행
+## 브랜치 정의
